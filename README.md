@@ -1,4 +1,4 @@
-# my-vue-projects
+# my-vue-project (task tracker)
 
 ## Project setup
 ```
